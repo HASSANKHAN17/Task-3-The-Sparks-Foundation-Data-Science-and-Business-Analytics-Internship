@@ -14,7 +14,7 @@ Dataset Link: https://bit.ly/3i4rbWl
 
 My Info: LinkedIn Profile Link: https://www.linkedin.com/in/mohammed-hassan-khan-94a654191/
 
-LinkedIn Post Link: https://www.linkedin.com/posts/mohammed-hassan-khan-94a654191_prediction-using-supervised-machine-learning-activity-6999054772209160192-1o_G?utm_source=share&utm_medium=member_desktop
+LinkedIn Post Link: https://www.linkedin.com/posts/mohammed-hassan-khan-94a654191_tsf-task-3-exploratory-data-analysis-activity-6999422389629464576-qfUt?utm_source=share&utm_medium=member_desktop
 
 GitHub Profile Link: https://github.com/HASSANKHAN17
 
